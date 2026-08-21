@@ -229,9 +229,7 @@ You can try the deployed application here:
 
 **https://b-got-banned.github.io/react-practice-1/**
 
-```md
-![Application Preview](./src/assets/preview.png)
-```
+![Application Preview](src/assets/preview.png)
 
 ---
 
