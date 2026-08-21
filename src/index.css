@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme{
+  --animate-bg-move: bg-move 5s ease infinite;
+  --color-plumish: #2A0316;
+  --color-peachish: #E3BEBB;
+  @keyframes bg-move{
+    0%, 100%{
+      background-position: 0% 50%;
+    }
+    50%{
+      background-position: 100% 50%;
+    }
+  }
+}
