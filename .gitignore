@@ -11,9 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-# Practice Components that don't need to be seen
-/components/Counter.tsx
-/components/Tracker.tsx
+
 
 # Editor directories and files
 .vscode/*
